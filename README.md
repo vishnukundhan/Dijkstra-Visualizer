@@ -59,14 +59,6 @@ The visualization demonstrates Dijkstra's algorithm's core functionality:
 - JavaScript enabled
 - HTML5 Canvas support
 
-## Future Enhancements
-
-- Additional pathfinding algorithms (A*, BFS, DFS)
-- Adjustable animation speed
-- Multiple path visualization
-- Custom grid sizes
-- Save/load grid configurations
-
 ## Images
 
 [1] https://pplx-res.cloudinary.com/image/upload/v1738412620/user_uploads/xYHtxVjRvTFZdXO/Screenshot-2025-02-01-175311.jpg
