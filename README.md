@@ -70,5 +70,7 @@ The visualization demonstrates Dijkstra's algorithm's core functionality:
 ## Images
 
 [1] https://pplx-res.cloudinary.com/image/upload/v1738412620/user_uploads/xYHtxVjRvTFZdXO/Screenshot-2025-02-01-175311.jpg
+
 [2] https://pplx-res.cloudinary.com/image/upload/v1738412620/user_uploads/remFcDoCCKJQikQ/Screenshot-2025-02-01-175246.jpg
+
 [3] https://pplx-res.cloudinary.com/image/upload/v1738412620/user_uploads/ZXLSlVePfancFBg/Screenshot-2025-02-01-175302.jpg
